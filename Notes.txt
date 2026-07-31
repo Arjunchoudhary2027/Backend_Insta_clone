@@ -39,4 +39,6 @@ UserSchema={
 
 }
 
+
 *** bcrypt is the stronger then crypto.(npm i bcrypt)
+    multer use for form data in postman read data (npm i multer) for knowmore study documentation
