@@ -21,14 +21,12 @@
   ==>Follo wing  
 
 
-  INSTALLATION
-qLtgU4XIu59vCs9V
-
+***INSTALLATION
 NEWPASSWORD=uq4FqnUZBTJab47X
 mongodb+srv://arjun:uq4FqnUZBTJab47X@cluster0.jcduiwt.mongodb.net/
   NPM I DOTENV THEN  GOES TO SERVER FILE FIRST LINE  REQUIRE ('DOTEENV).CONFIG().
   
-UserSchema={
+*** UserSchema={
   username:string,
   email:string,
   password:string,
@@ -40,5 +38,6 @@ UserSchema={
 }
 
 
-*** bcrypt is the stronger then crypto.(npm i bcrypt)
-    multer use for form data in postman read data (npm i multer) for knowmore study documentation
+*** . bcrypt is the stronger then crypto.(npm i bcrypt)
+    . multer use for form data in postman read data (npm i multer) for knowmore study documentation
+    .  study documentary how imagekit for image store in cloud storage from local sever (npm install @imagekit/nodejs)
