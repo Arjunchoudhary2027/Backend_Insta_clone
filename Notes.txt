@@ -41,3 +41,7 @@ mongodb+srv://arjun:uq4FqnUZBTJab47X@cluster0.jcduiwt.mongodb.net/
 *** . bcrypt is the stronger then crypto.(npm i bcrypt)
     . multer use for form data in postman read data (npm i multer) for knowmore study documentation
     .  study documentary how imagekit for image store in cloud storage from local sever (npm install @imagekit/nodejs)
+  
+
+*** Middleware: reducing the repeated code in controller file and use it in auth.middleware.js file for authentication and authorization .
+    Next is used
